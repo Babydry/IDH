@@ -1,0 +1,10 @@
+# format: Resume
+#Species :  	6183 
+Nombre d'annotations totales 	21945 
+Nombre d'annotations GO 	3137 
+Nombre de protéines uniques annotées 	72 
+Nombre de termes GO annotés sur une protéine 	2994 
+Nombre de termes par gène 	41.58333 
+Nombre de gènes annotés par terme 	0.0240481 
+Nombre de protéines totales 	11770 
+Nombre de termes GO uniques annotés sur une protéine 	660 
